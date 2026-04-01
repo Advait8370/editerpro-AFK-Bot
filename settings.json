@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "advait8370.xmania.me",
-    "port": :25596,
+    "ip": "goldenchicken.enderman.cloud",
+    "port": 26083,
     "version": "",
     "try-creative": false
   },
