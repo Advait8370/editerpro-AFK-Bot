@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "editerpro",
+    "username": "Johnwick",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "goldenchicken.enderman.cloud",
-    "port": 26083,
+    "ip": "editerpro.aternos.me",
+    "port": 41176,
     "version": "",
     "try-creative": false
   },
